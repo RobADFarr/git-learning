@@ -1,0 +1,16 @@
+
+# Compiled executables
+*.exe
+
+# Compiled object files
+*.obj
+*.o
+
+# Debugging files
+*.pdb
+
+# VS Code local configuration
+.vscode/
+
+# macOS generated files
+.DS_Store
