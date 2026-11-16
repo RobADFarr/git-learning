@@ -5,7 +5,7 @@ int main()
     int choice = 0;
 
     
-    std::cout << "Welcome to Git Learning!" << std::endl;
+    std::cout << "Welcome to the Advanced Git Learning Application!" << std::endl;
     std::cout << "Learning Git step by step." << std::endl;
 
     std::cout << "\n--- Main Menu ---" << std::endl;
