@@ -11,8 +11,9 @@ int main()
     std::cout << "\n--- Main Menu ---" << std::endl;
     std::cout << "1. Start Application" << std::endl;
     std::cout << "2. Settings" << std::endl;
-    std::cout << "3. Exit" << std::endl;
-    std::cout << "4. GitHub Remote Synchronisation Test" << std::endl;
+    std::cout << "3. GitHub Remote Synchronisation Test" << std::endl;
+    std::cout << "4. About" << std::endl;
+    std::cout << "5. Exit" << std::endl;
 
     std::cout << "\nEnter your choice: ";
     std::cin >> choice;
