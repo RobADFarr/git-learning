@@ -13,7 +13,8 @@ int main()
     std::cout << "2. Settings" << std::endl;
     std::cout << "3. GitHub Remote Synchronisation Test" << std::endl;
     std::cout << "4. About" << std::endl;
-    std::cout << "5. Exit" << std::endl;
+    std::cout << "5. Help" << std::endl;
+    std::cout << "6. Exit" << std::endl;
 
     std::cout << "\nEnter your choice: ";
     std::cin >> choice;
