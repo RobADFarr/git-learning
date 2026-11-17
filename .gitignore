@@ -9,6 +9,9 @@
 # Debugging files
 *.pdb
 
+# Incremental linker files
+*.ilk
+
 # VS Code local configuration
 .vscode/
 
