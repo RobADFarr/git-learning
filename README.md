@@ -18,7 +18,8 @@ The application currently displays the following options:
 3. GitHub Remote Synchronisation Test
 4. About
 5. Help
-6. Exit
+6. Version Information
+7. Exit
 
 The menu options are currently placeholders for future functionality.
 
